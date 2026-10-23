@@ -35,7 +35,7 @@ Feel free to reach out to us if you have any questions or would like to get invo
 - Vice Chairperson: 
 - _Other members_
 
-## Contribution
+## Contributing
 
 All deliverables are licensed under the [Creative Commons Zero License version 1.0 Universal (CC0 1.0)](LICENSE) per the [OpenChain Project Charter](https://charter.openchainproject.org). Details on how to contribute to the work is defined in the [CONTRIBUTING.md](CONTRIBUTING.md).
 

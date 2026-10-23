@@ -1,6 +1,4 @@
-_IN PROGRESS - not yet approved_
-
-# Contributing to the _WORK GROUP NAME_
+# Contributing to the OpenChain Southeast Asia Work Group
 
 First off, thank you for considering contributing to our work group! It's people like you that make open-source communities thrive. 
 
